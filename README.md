@@ -8,7 +8,7 @@ This project is a full stack web application which allows users to input study n
 
 ## 📚 Features
 
-- ✍️ Users can paste or upload study notes.
+- ✍️ Users can paste study notes.
 - 🤖 Automatically generates custom practice questions using OpenAI's API.
 - 🔄 Communication between Flask (backend) and React (frontend).
 - ⚡ Built for speed and simplicity using Vite + React and Flask REST API.
