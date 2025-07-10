@@ -23,9 +23,7 @@ This project is a full stack web application which allows users to input study n
 
 ### **Backend** (Flask + Python)
 - **Flask** – Lightweight Python web server framework
-- **Flask-CORS** – Enables Cross-Origin requests from frontend
-- **OpenAI Python SDK** – Connects to the OpenAI API
-- **python-dotenv** – Loads `.env` environment variables securely
+- **OpenAI API** – Connects to the OpenAI API
 
 ## How to run and use 
 
