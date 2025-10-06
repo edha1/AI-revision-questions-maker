@@ -14,7 +14,7 @@ This project is a full stack web application which allows users to input study n
 - ⚡ Built for speed and simplicity using Vite + React and Flask REST API.
 
 ## Demo Screenshot: 
-[!AI Revision Questions UI ()]
+[!AI Revision Questions UI (AI-Revision-Questions-Maker-Demo.png)]
 
 ## 🛠️ Tech Stack & Dependencies
 
@@ -37,7 +37,7 @@ To run this project, you will require an OpenAI API key, which you will need to 
 cd backend 
 python app.py 
 cd frontend
-cd study-app-ai
+cd study-ai-app
 npm run dev
 ```
 
