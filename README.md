@@ -13,6 +13,8 @@ This project is a full stack web application which allows users to input study n
 - 🔄 Communication between Flask (backend) and React (frontend).
 - ⚡ Built for speed and simplicity using Vite + React and Flask REST API.
 
+## Demo Screenshot: 
+[!AI Revision Questions UI ()]
 
 ## 🛠️ Tech Stack & Dependencies
 
@@ -34,7 +36,8 @@ To run this project, you will require an OpenAI API key, which you will need to 
 ```bash
 cd backend 
 python app.py 
-cd frontend 
+cd frontend
+cd study-app-ai
 npm run dev
 ```
 
