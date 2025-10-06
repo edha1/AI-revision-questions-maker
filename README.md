@@ -14,7 +14,7 @@ This project is a full stack web application which allows users to input study n
 - ⚡ Built for speed and simplicity using Vite + React and Flask REST API.
 
 ## Demo Screenshot: 
-[!AI Revision Questions UI (AI-Revision-Questions-Maker-Demo.png)]
+[!AI Revision Questions UI](AI-Revision-Questions-Maker-Demo.png)
 
 ## 🛠️ Tech Stack & Dependencies
 
